@@ -1,8 +1,8 @@
 # django-assignment
-It's my python's class assignment whre I have to create web-pages about myself using django module.
-To run it simply cd into Bio and write the execute the following command:
+It's my python's class assignment whre I have to create web-pages about myself using django module.<br />
+To run it simply cd into Bio and write the execute the following command:<br />
     ``python manage.py runserver``
-    
+<br />  
 Screenshots
 ![Page-1](Page1.png)
 
