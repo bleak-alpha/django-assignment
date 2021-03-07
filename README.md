@@ -1,8 +1,8 @@
 # django-assignment
 It's my python's class assignment whre I have to create web-pages about myself using django module.<br />
-To run it simply cd into Bio and write the execute the following command:<br />
-    ``python manage.py runserver``
-<br />  
+1. Clone this repository by git command:
+    ``git clone https://github.com/bleak-alpha/django-assignment.git``
+
 Screenshots
 ![Page-1](Page1.png)
 
