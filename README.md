@@ -1,5 +1,5 @@
 # django-assignment
-It's my python's class assignment whre I have to create web-pages about myself using django module.<br />
+It's my python's class assignment where I have to create web-pages about myself using django web-framework module.<br />
 
 ### Instructions to run it on your machine
 1. Clone this repository by git command:``git clone https://github.com/bleak-alpha/django-assignment.git``
